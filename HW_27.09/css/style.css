@@ -1,0 +1,78 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    background-color: #F3F2F0;
+    color: #010101;
+}
+.wrapper {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+nav{
+    display: block;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding-left: 0;
+}
+.nav-item{
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.nav-item:first-child{
+    padding-left: 0;
+}
+.nav-item:last-child {
+    padding-right: 0;
+}
+.nav-link {
+    text-decoration: none;
+    color: #010101;
+    transition: 0.2s color ease;
+}
+.nav-link:hover{
+    color: darkred;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px 20px;
+}
+.photo{
+    background-image: url("../src/photo.jpeg");
+    background-size: cover;
+    grid-column: 1/2 ;
+    grid-row: 1/3;
+    width: 600px;
+    height: 424px ;
+}
+.fio{
+    grid-column: 2/4 ;
+    grid-row: 1/2;
+    height: 80px;
+}
+.fio h1{
+    font-size: 50px;
+    padding-left: 20px;
+    margin: 0;
+}
+.aboutme{
+    grid-column: 2/3 ;
+    grid-row: 2/3;
+    height: 424px;
+}
+.otzyv{
+    grid-column: 3/4 ;
+    grid-row: 2/3;
+}

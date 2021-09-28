@@ -1,0 +1,6 @@
+.image{
+    background-image: url("../src/num.jpeg");
+    background-size: contain; /* cover - масштабирует, чтобы изображение полностью заполнило блок*/
+    width: 350px;
+    height: 350px;
+}
