@@ -1,6 +1,3 @@
-body{
-    background-color: #F3F2F0;
-}
 table{
     margin: auto;
 }
@@ -17,7 +14,7 @@ p, h1, h4{
     margin-bottom: 20px;
     text-align: center;
 }
-.head, .elements, .por{
+.headtable, .elements, .por{
     text-align: center;
     background-color: white;
 }
