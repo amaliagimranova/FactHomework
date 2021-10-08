@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134768ae-c876-4a9e-ad14-508af4a913f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../HM_22.09.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/.idea/Lesson27.09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/css/style2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/new.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_27.09/src/num.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstHW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HW_27.09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styleMendel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/photo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/photo.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tableMendeleev.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1zBY7Rd6WC5gm91fAByznRK2hPG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -80,9 +65,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633622780498</updated>
-      <workItem from="1633622781993" duration="14177000" />
-      <workItem from="1633670540143" duration="121000" />
-      <workItem from="1633670666414" duration="71000" />
+      <workItem from="1633622781993" duration="14115000" />
+      <workItem from="1633669830084" duration="1102000" />
+      <workItem from="1633672213907" duration="3023000" />
+      <workItem from="1633675286204" duration="3000" />
+      <workItem from="1633675298979" duration="106000" />
     </task>
     <servers />
   </component>

@@ -2,8 +2,6 @@ body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     margin: 0;
-    background-color: #F3F2F0;
-    color: #010101;
 }
 .wrapper {
     max-width: 1140px;
@@ -28,7 +26,6 @@ header{
     padding-right: 14px;
 }
 .nav-link {
-    color: #010101;
     text-decoration: none;
     transition: color 0.2s ease 0s;
 }
@@ -39,7 +36,6 @@ header{
     padding-left: 0px;
 }
 .circle{
-    fill: #FFF;
     width: 253px;
     height: 253px;
     position: absolute;
@@ -52,7 +48,6 @@ header{
     left: -151px;
     top: -21px;
     z-index: 2;
-    fill: #D40000;
 }
 .title-h1 {
     font-size: 74px;
@@ -111,8 +106,6 @@ header{
 }
 .film img, .museRecommend img{
     width: 100%;
-    filter:grayscale(100%);
-    transition: ease 0.5s;
 }
 .film img:hover, .museRecommend img:hover{
     filter: none;

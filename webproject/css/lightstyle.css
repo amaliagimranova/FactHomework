@@ -1,0 +1,17 @@
+body {
+    background-color: #F3F2F0;
+    color: #010101;
+}
+.nav-link {
+    color: #010101;
+}
+.circle{
+    fill: #FFF;
+}
+.triangle {
+    fill: #D40000;
+}
+.film img, .museRecommend img{
+    filter:grayscale(100%);
+    transition: ease 0.5s;
+}
