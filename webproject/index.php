@@ -1,5 +1,4 @@
-<?php
-//date_default_timezone_set("America/Los_Angeles"); //для проверки работы изменения тем
+<?php //date_default_timezone_set("America/Los_Angeles"); //для проверки работы изменения тем
 date_default_timezone_set("Europe/Moscow");
 $time = date("H");
 $cur_time = date("H:i");
@@ -8,9 +7,7 @@ if(8<=$time && $time<20){
     echo '<link rel="stylesheet" href="css/lightstyle.css">';
 }else{
     echo '<link rel="stylesheet" href="css/darkstyle.css">';
-}
-?>
-
+}?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,19 +17,7 @@ if(8<=$time && $time<20){
 </head>
 <body>
 <div class="wrapper">
-    <header>
-        <nav>
-            <ul class="nav">
-                <li class="nav-item"><a class="nav-link" href="#">Обо мне</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Таблица</a></li>
-            </ul>
-        </nav>
-        <ul class="nav nav-info">
-            <li class="nav-item"><a class="nav-link" href="tel:+79613661256">8 (961) 366-12-56</a></li>
-            <li class="nav-item"><a class="nav-link"
-                                    href="mailto:amaliagimranova@yandex.ru">amaliagimranova@yandex.ru</a></li>
-        </ul>
-    </header>
+    <?php include 'php/header.php';?>
     <main>
         <div class="main">
             <svg class="circle" viewBox="0 0 253 253" xmlns="http://www.w3.org/2000/svg">
