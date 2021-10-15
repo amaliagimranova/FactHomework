@@ -1,9 +1,9 @@
 <header>
     <nav>
         <ul class="nav">
-            <li class="nav-item"><a class="nav-link" href="../index.php">Обо мне</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Таблица</a></li>
-            <li class="nav-item"><a class="nav-link" href="php/array.php">Массивы</a></li>
+            <li class="nav-item"><a class="nav-link" href="index.php">Обо мне</a></li>
+            <li class="nav-item"><a class="nav-link" href="tableMendeleev.php">Таблица</a></li>
+            <li class="nav-item"><a class="nav-link" href="array.php">Массивы</a></li>
         </ul>
     </nav>
     <ul class="nav nav-info">

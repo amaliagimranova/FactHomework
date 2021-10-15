@@ -191,7 +191,10 @@ header{
     grid-column: 4/5;
     grid-row: 4/5;
 }
-
+.footer{
+    border-top: red 1px solid;
+    padding: 20px 0px;
+}
 @media screen and (max-width: 900px){
     .circle {
         width: 200px;
