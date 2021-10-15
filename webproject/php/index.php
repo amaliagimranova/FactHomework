@@ -68,7 +68,7 @@
         <div class="filmRecommend">
             <div class="film film1">
                 <figure class="film-item">
-                    <a href="https://www.kinopoisk.ru/film/630647/" target="_blank"><img src="../src/holymotors_.jpeg" alt="Святые моторы" title="Перейти на КиноПоиск"></a>
+                    <a href="https://www.kinopoisk.ru/film/630647/" target="_blank"><img src="../src/hollymotors.png" alt="Святые моторы" title="Перейти на КиноПоиск"></a>
                     <figcaption>
                         <p>Holly Motors</p>
                     </figcaption>
@@ -76,7 +76,7 @@
             </div>
             <div class="film film2">
                 <figure class="film-item">
-                    <a href="https://www.kinopoisk.ru/film/466/" target="_blank"><img src="../src/mulholland.jpg" alt="Малхолланд Драйв" title="Перейти на КиноПоиск"></a>
+                    <a href="https://www.kinopoisk.ru/film/466/" target="_blank"><img src="../src/mulholland.png" alt="Малхолланд Драйв" title="Перейти на КиноПоиск"></a>
                     <figcaption>
                         <p>Mulholland Drive</p>
                     </figcaption>
@@ -100,7 +100,7 @@
             </div>
             <div class="film">
                 <figure class="film-item film5">
-                    <a href="https://www.kinopoisk.ru/film/537136/" target="_blank"><img src="../src/place.jpeg" alt="Где бы ты ни был" title="Перейти на КиноПоиск"></a>
+                    <a href="https://www.kinopoisk.ru/film/537136/" target="_blank"><img src="../src/place.png" alt="Где бы ты ни был" title="Перейти на КиноПоиск"></a>
                     <figcaption>
                         <p>This Must Be the Place</p>
                     </figcaption>
