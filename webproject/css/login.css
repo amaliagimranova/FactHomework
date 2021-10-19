@@ -1,0 +1,56 @@
+.form-auth,
+.form-comment{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    margin: -200px 0 0 -250px;
+    border-radius: 10px;
+    color: #010101;
+}
+h1{
+    text-align: center;
+}
+form input {
+    background-color: #38383A;
+    width: 100%;
+    padding: 26px 20px 26px;
+    border: none;
+    box-sizing: border-box;
+    margin-bottom: 21px;
+    color: #F3F2F0;
+}
+.button {
+    cursor: pointer;
+    background-color: rgba(149,7,20,0.91);
+    font-size: 18px;
+    font-weight: 700;
+    transition: 0.2s ease;
+}
+.button:hover{
+    background-color: rgba(149,7,20,1);
+}
+.auth{
+    display: flex;
+    justify-content: space-between;
+}
+.auth a{
+    color: darkgray;
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+.auth a:hover{
+    color: #010101;
+}
+.comment{
+    height: 200px;
+}
+.off{
+    justify-content: end;
+}
+.comment{
+    background-color: #38383A;
+    color: #F3F2F0;
+    width: 100%;
+    border: none;
+}

@@ -2,19 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Portfolio</title>
+    <title>Массивы</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/array.css">
-    <?php //date_default_timezone_set("America/Los_Angeles"); //для проверки работы изменения тем
-    date_default_timezone_set("Europe/Moscow");
-    $time = date("H");
-    $cur_time = date("H:i");
-    echo "Текущее время: "."$cur_time";
-    if(8<=$time && $time<20){
-        echo '<link rel="stylesheet" href="../css/light.css">';
-    }else{
-        echo '<link rel="stylesheet" href="../css/dark.css">';
-    }?>
+    <?php include 'theme.php'; ?>
 </head>
 
 <body>
