@@ -14,10 +14,10 @@
         <h1>Авторизация</h1>
         <form method="post" action="auth.php">
             <div>
-                <input type="text" name="login" id="login" placeholder="Введите логин" autocomplete="off">
+                <input class="log" type="text" name="login" id="login" placeholder="Введите логин" autocomplete="off">
             </div>
             <div>
-                <input type="password" name="password" id="password" placeholder="Введите пароль">
+                <input class="pass" type="password" name="password" id="password" placeholder="Введите пароль">
             </div>
             <div>
                 <input class="button" type="submit" value="Войти">
@@ -27,6 +27,7 @@
                 <a href="reset.php">Забыли пароль?</a>
             </div>
         </form>
+        <p>* Логин: admin <br> Пароль: qwerty123</p>
     </div>
 </div>
 </body>

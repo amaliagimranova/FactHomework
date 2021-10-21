@@ -11,5 +11,14 @@
         <li class="nav-item"><a class="nav-link"
                                 href="mailto:amaliagimranova@yandex.ru">amaliagimranova@yandex.ru</a></li>
         <li class="nav-item"><a class="nav-link" href="login.php">Войти в учетную запись</a></li>
+        <form method="get">
+            <select name="theme" id="">
+                <option disabled selected>Сменить тему</option>
+                <option value="light">Светлая</option>
+                <option value="dark">Темная</option>
+                <option value="burlywood">Бежевая</option>
+            </select>
+            <input type="submit" value="Сменить">
+        </form>
     </ul>
 </header>

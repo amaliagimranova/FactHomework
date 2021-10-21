@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="wrapper">
-    <?php include 'header.php'; ?>
+    <?php include 'header.php'?>
     <main>
         <div class="main">
             <svg class="circle" viewBox="0 0 253 253" xmlns="http://www.w3.org/2000/svg">
@@ -17,7 +17,6 @@
             <svg class="triangle" width="66" height="72" viewBox="0 0 66 72" xmlns="http://www.w3.org/2000/svg">
                 <path d="M33 0L65.909 71.25H0.0910339L33 0Z"/>
             </svg>
-
             <h1 class="title-h1">Гимранова Амалия</h1>
         </div>
         <div class="about">
@@ -52,7 +51,7 @@
                             if ($value % 2 == 0) {
                                 $arr_otz[$value] = "<span style='color: darkolivegreen'>$word</span>";
                             } else {
-                                $arr_otz[$value] = "<span style='color: darkred'>$word</span>";
+                                $arr_otz[$value] = "<span style='color: olive'>$word</span>";
                             }
                         }
                         echo implode(' ', $arr_otz);

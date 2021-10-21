@@ -1,20 +1,30 @@
 .form-auth,
-.form-comment{
+.form-person{
     position: fixed;
-    top: 50%;
     left: 50%;
     width: 500px;
-    margin: -200px 0 0 -250px;
+    margin: 0 -250px;
     border-radius: 10px;
     color: #010101;
+}
+.textarea{
+    width: 496px;
+}
+textarea{
+    resize: none;
+}
+.sites{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
 }
 h1{
     text-align: center;
 }
-form input {
+.pass, .log, .button {
     background-color: #38383A;
     width: 100%;
-    padding: 26px 20px 26px;
+    padding: 26px 20px;
     border: none;
     box-sizing: border-box;
     margin-bottom: 21px;
@@ -26,6 +36,12 @@ form input {
     font-size: 18px;
     font-weight: 700;
     transition: 0.2s ease;
+}
+.site{
+    font-size: 10px;
+    font-weight: 700;
+    width: 45%;
+    padding: 20px;
 }
 .button:hover{
     background-color: rgba(149,7,20,1);

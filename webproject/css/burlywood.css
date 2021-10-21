@@ -1,0 +1,13 @@
+body {
+    background-color: burlywood;
+    color: #010101;
+}
+.circle{
+    fill: #D40000;
+}
+.triangle {
+    fill: #FFFFFF;
+}
+.auth a{
+    color: #38383A;
+}
