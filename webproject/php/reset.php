@@ -14,14 +14,14 @@
         <h1>Сбросить пароль</h1>
         <form method="post" action="">
             <div>
-                <input type="text" name="email" id="email" placeholder="Введите Email" autocomplete="off">
+                <input class="log" type="text" name="email" id="email" placeholder="Введите Email" autocomplete="off">
             </div>
             <div>
                 <input class="button" type="submit" value="Отправить">
             </div>
             <div class="auth">
                 <a href="login.php">Войти</a>
-                <a href=signup.php">Регистрация</a>
+                <a href="signup.php">Регистрация</a>
             </div>
         </form>
     </div>

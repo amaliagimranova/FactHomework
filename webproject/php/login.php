@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +29,13 @@
                 <a href="reset.php">Забыли пароль?</a>
             </div>
         </form>
-        <p>* Логин: admin <br> Пароль: qwerty123</p>
+        <!-- 
+            login: sam  pass: sam123
+            login: Will  pass: will123
+            login: kate pass: kate123
+            login: Sam  pass: 123456
+            login: marina  pass: marina123
+        -->
     </div>
 </div>
 </body>
