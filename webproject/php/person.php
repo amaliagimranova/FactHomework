@@ -21,6 +21,7 @@ if (isset($_POST['comment'])){
     <?php include 'header.php'; ?>
     <div class="form-person">
         <h1>Личный кабинет</h1>
+        
         <form method="post">
             <div class="textarea">
                 <textarea class="comment" name="comment" id="comment" placeholder="Ваше сообщение..."></textarea>

@@ -16,7 +16,7 @@
         //1
         echo "<br><h2>Массив рандомных чисел</h2><br>";
         $arr_rand = [];
-        for ($i = 0; $i < 20; $i++) {
+        for ($i = 0; $i<20; $i++) {
             array_push($arr_rand, mt_rand(0, 100));
 
             if (($arr_rand[$i] % 2) == 0) {
@@ -62,8 +62,6 @@
             $sum += count($city);
         }
         echo "<br>Общее количество городов: " . $sum;
-
-
         //echo count($country, COUNT_RECURSIVE); //возвращает количество, выводит вместе с названиями стран
         ?>
     </div>
